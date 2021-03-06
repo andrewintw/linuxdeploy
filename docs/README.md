@@ -14,6 +14,7 @@
 
 這篇文章中所指稱的 "Linux", "GNU Linux", "installation", "instance" 幾乎都是指透過 Linux Deploy 這個 App 所安裝的 Linux distro。因為每一篇的作者都不同，用詞也沒有統一，先在此說明。
 
+另外，使用 Linux Deploy App 安裝 Linux distro 的前提是能以 root 身分操作 Android 手機。這意味著**你需要 root 你的手機才能正常使用 Linux Deploy**！
 
 ## 如何解決問題
 
